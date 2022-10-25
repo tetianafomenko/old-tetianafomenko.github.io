@@ -1,4 +1,5 @@
-theme: minima
+# theme: minima
+remote_theme: just-the-docs/just-the-docs
 title: "Tanya Tries"
 author: Tetiana (Tanya) Fomenko
 description: a place where I will try to consolidate and share my thinking as well as data science learning projects
