@@ -1,6 +1,6 @@
 ---
 title: "START HERE"
-date: 2022-10-25
+date: 25/10/2022
 ---
 Hi!
 
