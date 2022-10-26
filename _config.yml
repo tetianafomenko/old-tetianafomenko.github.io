@@ -168,3 +168,19 @@ compress_html:
   profile: false
   # ignore:
   #   envs: all
+
+collections:
+  book notes:
+    permalink: "/:collection/:path/"
+    output: true
+  articles:
+    permalink: "/:collection/:path/"
+    output: true
+  projects:
+    permalink: "/:collection/:path/"
+    output: true
+    nav_fold: true
+  drafts:
+    permalink: "/:collection/:path/"
+    output: true
+    nav_exclude: true
