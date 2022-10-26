@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "START HERE"
 date: 25/10/2022
 ---
